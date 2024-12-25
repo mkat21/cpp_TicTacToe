@@ -120,8 +120,8 @@ class TicTacToe{
             PlayingPieceO noughtsPiece;
             PlayingPieceX crossPiece;
 
-            Player player1("Atul",crossPiece);
-            Player player2("Tushar",noughtsPiece);
+            Player player1("P1",crossPiece);
+            Player player2("P2",noughtsPiece);
 
             players.push_back(player1);
             players.push_back(player2);
